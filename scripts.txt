@@ -1,0 +1,1 @@
+INSERT INTO menu(id_menu, nombre, icono, url) VALUES (11, 'Signos Vitales', 'attribution', '/pages/signos');
